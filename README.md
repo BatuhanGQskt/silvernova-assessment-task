@@ -12,11 +12,11 @@ When working on this task either
 
 Try to answer as thruthfully as possible.
 
-| Name                     | xxxxx        |
-|--------------------------|--------------|
-| E-Mail:                  | xxxxx@xxx.xx |
+| Name                     | Batuhan Gündüz                   |
+|--------------------------|----------------------------------|
+| E-Mail:                  | e231529@gmail.com                |
 | Approx. Time To Complete | xx hours     |
-| My github:               | xxxxxxx      |
+| My github:               | https://github.com/BatuhanGQskt/ |
 
 ## The task
 

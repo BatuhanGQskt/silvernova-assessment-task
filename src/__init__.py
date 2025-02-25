@@ -15,7 +15,7 @@ class App:
     parser = argparse.ArgumentParser(description='Ask questions about the files of a case.')
     
     # Add optional "mode" argument (with values "load-files" and "ask-question" (default))
-    parser.add_argument('--mode', choices=['index-files', 'ask-question', 'search', 'get-markdown'], default='ask-question', help='The mode of the application.')
+    parser.add_argument('--mode', choices=['index-files', 'ask-question', 'search', 'get-markdown', 'load-files'], default='ask-question', help='The mode of the application.')
 
     # Add question argument as required positional argument if mode is "ask-question"
     parser.add_argument('question', nargs='?', type=str, help='The question to ask about the files of a case.')
