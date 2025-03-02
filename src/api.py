@@ -4,12 +4,7 @@ from os import environ
 
 BASE_URL = 'https://assessment.silvernova.ai/'
 
-# Get API_KEY from env
 API_KEY = environ.get('API_KEY')
-
-
-print("API_KEY:", API_KEY)  # Debugging step
-
 
 def execute_prompt(message: str):
   url = f'{BASE_URL}prompt'
