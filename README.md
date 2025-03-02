@@ -36,6 +36,8 @@ This repository already has a basic structure to help you get started and point 
 ## Setup
 
 ```bash
+python -m venv venv
+source ./venv/Script/activate
 pip install -r requirements.txt
 ```
 
